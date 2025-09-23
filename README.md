@@ -6,7 +6,7 @@
 - ☁️ Cloud: AWS primary (S3, Glue Catalog, Athena, IAM, Kinesis). Databricks on AWS with Spark, Delta Lake, Unity Catalog
 - 🛠️ Tools: I specialize in using Python, SQL, PySpark, dbt, Databricks Workflows and Docker
 - 📜 Certifications: Working toward Databricks Data Engineer Associate and AWS Data Engineer Associate
-- 📦 Current project: Toronto “Licensed Cats and Dogs” lakehouse on S3 + Databricks with Bronze Silver Gold layers
+- 📦 Current project: Toronto “Licensed Dogs and Cats” lakehouse on S3 + Databricks with Bronze Silver Gold layers
 - 🔎 Interests: data modeling, data quality, lineage, streaming, cost control
 - 🤝 Open to 2026 new-grad Data Engineer roles. Toronto or remote
 - 📬 Contact: sayeem.m@hotmail.com
