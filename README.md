@@ -11,6 +11,8 @@
 - 🤝 Open to 2026 new-grad Data Engineer roles. Toronto or remote
 - 📬 Contact: sayeem.m@hotmail.com
 
+Check out my website: [sayeem.one](www.sayeem.one)
+
 ## Socials
 [![linkedin](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)][1]
 [![discord](https://img.icons8.com/ios-filled/50/5865F2/discord-logo.png)][2]
