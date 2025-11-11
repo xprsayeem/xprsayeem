@@ -31,7 +31,7 @@ Currently finishing my **CS degree at TMU** (graduating April 2026) while workin
 
 ## Open to Opportunities
 
-🔎 **Seeking 2026 new-grad Data Engineer roles** (Toronto or remote)  
+🔎 **Seeking 2026 new-grad or entry-level Data Engineer roles** (Toronto or remote)  
 📬 **Contact:** sayeem.m@hotmail.com  
 🌐 **Portfolio:** [sayeem.one](https://sayeem.one)
 
