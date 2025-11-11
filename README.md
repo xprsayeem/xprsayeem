@@ -1,21 +1,43 @@
-## Hi, I'm Sayeem :3
+# Hey, I'm Sayeem 👋
 
-## About
-- 🧱 I'm an Aspiring Data Engineer focused on building reliable, well tested data pipelines and analytics-ready models
-- 🎓 I'm a Final-year CS student at Toronto Metropolitan University, graduating April 2026
-- ☁️ Cloud: AWS primary (S3, Glue Catalog, Athena, IAM, Kinesis). Databricks on AWS with Spark, Delta Lake, Unity Catalog
-- 🛠️ Tools: I specialize in using Python, SQL, PySpark, dbt, Databricks Workflows and Docker
-- 📜 Certifications: Working toward Databricks Data Engineer Associate and AWS Data Engineer Associate
-- 📦 Current project: Toronto “Licensed Dogs and Cats” lakehouse on S3 + Databricks with Bronze Silver Gold layers
-- 🔎 Interests: data modeling, data quality, lineage, streaming, cost control
-- 🤝 Open to 2026 new-grad Data Engineer roles. Toronto or remote
-- 📬 Contact: sayeem.m@hotmail.com
+**Data Engineer** building production pipelines that cost <$10/month and maintain 99.5%+ quality.
 
-Check out my website: [sayeem.one](www.sayeem.one)
+Currently finishing my **CS degree at Toronto Metropolitan University** (graduating April 2026) while working as a **Technical Business Analyst** building ETL workflows that process 200k+ records/week.
 
-## Socials
-[![linkedin](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)][1]
-[![discord](https://img.icons8.com/ios-filled/50/5865F2/discord-logo.png)][2]
+## What I'm Working On
 
-[1]: https://www.linkedin.com/in/sayeem-mahfuz/
-[2]: https://discord.com/users/668252813163233280
+🐱 **[Certified Dogs & Cats](https://sayeem.one/projects)** - Production data lakehouse analyzing 175k+ pet registrations  
+*Tech: Databricks, Delta Lake, Unity Catalog, AWS S3, PySpark, GitHub Actions*  
+*Daily ingestion → Bronze/Silver/Gold → Static dashboard served for <$10/month*
+
+🎯 **Pursuing certifications:**
+- Databricks Data Engineer Associate (in progress)
+- AWS Data Engineer Associate (planned Q1 2026)
+
+## Tech Stack
+
+**Languages:** Python, SQL, PySpark, JavaScript, R  
+**Data Engineering:** Databricks, Delta Lake, Unity Catalog, dbt, Airflow-style orchestration  
+**Cloud:** AWS (S3, Glue, Athena, IAM, Kinesis), Azure basics  
+**Databases:** SQL Server, PostgreSQL, DynamoDB  
+**Tools:** Git, Docker, GitHub Actions, Power BI
+
+## What I Care About
+
+✅ **Data quality** - Validation at every layer, idempotent operations, 99.5%+ accuracy  
+✅ **Cost optimization** - Running production workloads on spot clusters, auto-termination  
+✅ **Clear lineage** - From source API to final chart, every transformation tracked  
+✅ **Streaming data** - Learning Kinesis, Kafka, real-time processing patterns
+
+## Open to Opportunities
+
+🔎 **Seeking 2026 new-grad Data Engineer roles** (Toronto or remote)  
+📬 **Contact:** sayeem.m@hotmail.com  
+🌐 **Portfolio:** [sayeem.one](https://sayeem.one)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayeem-mahfuz/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xprsayeem)
+
+---
+
+*"If you can't explain your pipeline to a non-technical person, you don't understand it well enough."*
