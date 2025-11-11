@@ -2,15 +2,15 @@
 
 **Data Engineer** building production pipelines that cost <$10/month and maintain 99.5%+ quality.
 
-Currently finishing my **CS degree at Toronto Metropolitan University** (graduating April 2026) while working as a **Technical Business Analyst** building ETL workflows that process 200k+ records/week.
+Currently finishing my **CS degree at TMU** (graduating April 2026) while working as a **Technical Business Analyst** building ETL workflows that process 200k+ records/week.
 
 ## What I'm Working On
 
 🐱 **[Certified Dogs & Cats](https://sayeem.one/projects)** - Production data lakehouse analyzing 175k+ pet registrations  
 *Tech: Databricks, Delta Lake, Unity Catalog, AWS S3, PySpark, GitHub Actions*  
-*Daily ingestion → Bronze/Silver/Gold → Static dashboard served for <$10/month*
+*Daily ingestion → Bronze/Silver/Gold → Dynamic interactive dashboard served for <$10/month*
 
-🎯 **Pursuing certifications:**
+🤝 **Pursuing certifications:**
 - Databricks Data Engineer Associate (in progress)
 - AWS Data Engineer Associate (planned Q1 2026)
 
@@ -40,4 +40,4 @@ Currently finishing my **CS degree at Toronto Metropolitan University** (graduat
 
 ---
 
-*"If you can't explain your pipeline to a non-technical person, you don't understand it well enough."*
+*"It be ups. It be downs. When you're down, the only way is up. ... Keep going - LaMelo Ball*
