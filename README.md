@@ -4,7 +4,7 @@
 
 
 
-**sleeper build** (n.) - system or machine whose modest appearance masks disproportionate internal strength.
+**sleeper build** (n.) - system or machine with an unassuming appearance which masks disproportionate internal strength.
 </div>
 <div align="center">
 
